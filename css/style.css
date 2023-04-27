@@ -1,0 +1,243 @@
+ /* color
+#0B0C10
+#1F2833
+#C5C6C7
+#66FCF1
+#45A29E
+#FFF */
+body {
+  background-color: #1F2833;
+  font-size: 1.5rem;
+}
+
+h1, h2, h3 {
+  font-family: Edu VIC WA NT Beginner;
+}
+
+/* navbar */
+
+.navbar {
+
+}
+
+.nav-link {
+  color: #45A29E;
+  margin: -1rem 1rem 0.5rem;
+  font-size: 1rem;
+}
+.navbar-brand{
+  color: #45A29E;
+  margin: -0.5rem 5rem 0.5rem;
+  font-size: 40px;
+}
+.navbar-brand:hover, .nav-link:hover{
+  color:#66FCF1;
+}
+/* title */
+.name {
+
+}
+.first{
+  background-image: url(../image/background.jpg);
+  background-size: cover;
+  /* padding-bottom: 2%; */
+}
+
+.my-name {
+  color: #66FCF1;
+  text-align: center;
+  padding: 2% 0 ;
+  font-family: Shadows into light;
+  font-size: 3rem;
+}
+
+.profile-pic {
+  width: 63%;
+
+
+}
+
+.button-c {
+  background-color: #45A29E;
+  padding: 1% 5%;
+  margin: 5% 0;
+
+}
+
+.button-c:hover {
+  background-color: #66FCF1;
+  transform: scale(1.2)
+}
+
+#home {
+/* margin: 7% 0; */
+  text-align: center
+}
+
+.row {
+  margin: 0;
+  align-items: center;
+}
+
+/* about */
+#about {
+  color: #1F2833;
+  background-color: #45A29E;
+  padding: 7% 0 7% 0;
+}
+
+.hello {
+  color: #ffff00;
+  font-size: 3rem;
+  font-family: Shadows into light;
+}
+
+#intro:hover {
+  background-color: #1F2833;
+  color: #45A29E;
+}
+
+.about-head {
+  text-align: center;
+}
+
+#intro {
+  font-size: 1.5rem;
+  text-align: center;
+  border: solid;
+  margin: 75px;
+  width: 80%;
+  padding: 35px;
+}
+
+.intro-part {}
+
+.educaton {
+  font-size: 1.5rem;
+  border: solid;
+  margin: 75px;
+  width: 80%;
+  text-align: center;
+  padding: 38px;
+}
+
+.educaton:hover {
+  background-color: #1F2833;
+  color: #45A29E;
+}
+
+/* -- Skills -- */
+#Skills {
+  color: #45A29E;
+  padding: 7% 0;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.web {
+  padding: 5% 7%;
+}
+
+#Skills h1 {
+  font-size: 2.5rem;
+}
+
+.skill-itm {
+  border: solid;
+  margin: 10px 0px;
+}
+
+.skill-itm:hover {
+  background-color: #45A29E;
+  color: #1F2833;
+}
+
+/* Hobbie */
+#Hobbie {
+  padding: 7% 0;
+  background-color: #45A29E;
+  text-align: center;
+}
+.forth h2{
+  font-size: 2.5rem;
+}
+.hobbie-itm{
+  padding: 20px;
+}
+.Basketball{
+  width:40%;
+  border: solid;
+  margin-left: 50%;
+  margin-top: 5%;
+  padding: 10px 0 20px 0;
+  background-color:#1F2833;
+  color: #45A29E;
+}
+.Basketball:hover, .Cycling:hover {
+  background-color:#66FCF1;
+  color: #1F2833;
+}
+.Cycling{
+  width:40%;
+  border: solid;
+  margin-left: 20%;
+  margin-top: 5%;
+  padding: 10px 0 20px 0;
+  background-color:#1F2833;
+  color: #45A29E;
+}
+.Movie{
+  width: 40%;
+  border: solid;
+  margin-left: 20%;
+  margin-top: 5%;
+  padding: 10px 0 20px 0;
+}
+.Travel{
+  width: 40%;
+  border: solid;
+  margin-left: 50%;
+  margin-top: 5%;
+  padding: 10px 0 20px 0;
+}
+.Travel:hover, .Movie:hover{
+  background-color:#66FCF1;
+  color: #1F2833;
+
+}
+
+
+/* Portfolio */
+.Portfolio {
+  padding: 7% 0;
+  color: #45A29E;
+  text-align: center;
+}
+
+
+
+
+
+
+/* Contacts */
+.Contacts {
+  background-color: #45A29E;
+  text-align: center;
+  padding: 2% 0 0 0;
+}
+
+.cont-itm {
+  padding: 4% 0 4% 0;
+}
+
+.footer {
+  padding-top: 4% 0 0 0;
+}
+
+.media {
+  color: #1F2833;
+  padding: 2%;
+}
+.media:hover{
+  color:#66FCF1;
+}

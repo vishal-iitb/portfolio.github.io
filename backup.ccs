@@ -1,0 +1,48 @@
+
+.navbar {}
+
+.nav-link {
+  color: #45A29E;
+  margin: 0.5rem 0.7rem 0.5rem;
+}
+
+.navbar-brand {
+  color: #45A29E;
+  margin: -0.5rem 5rem 0.5rem;
+  font-size: 40px;
+}
+
+/* title */
+.name {
+  padding-top: 140px;
+}
+
+.my-name {
+  color: #66FCF1;
+  text-align: center;
+  padding: 10px 0px 0px 100px;
+  font-family: Shadows into light;
+}
+
+.profile-pic {
+  padding: 100px 0px 10px 250px;
+}
+
+.button-c {
+  background-color: #45A29E;
+  margin: 70px 0px 0px 355px
+}
+
+.button-c:hover {
+  background-color: #66FCF1;
+  transform: scale(1.2)
+}
+
+#title {
+  margin-bottom: 60px;
+}
+
+.row {
+  margin: 0;
+  align-items: center;
+}
